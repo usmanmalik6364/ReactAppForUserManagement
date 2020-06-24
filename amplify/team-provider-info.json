@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-egoodmannersfinal-dev-154400-authRole",
+            "UnauthRoleArn": "arn:aws:iam::030560584947:role/amplify-egoodmannersfinal-dev-154400-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::030560584947:role/amplify-egoodmannersfinal-dev-154400-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-egoodmannersfinal-dev-154400-deployment",
+            "UnauthRoleName": "amplify-egoodmannersfinal-dev-154400-unauthRole",
+            "StackName": "amplify-egoodmannersfinal-dev-154400",
+            "StackId": "arn:aws:cloudformation:us-east-1:030560584947:stack/amplify-egoodmannersfinal-dev-154400/8d42a570-b514-11ea-84d2-12d8771823f5",
+            "AmplifyAppId": "d18jdpe8restd3"
+        },
+        "categories": {
+            "auth": {
+                "egoodmannersfinal6d0d9e56": {}
+            }
+        }
+    }
+}
